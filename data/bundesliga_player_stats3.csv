@@ -1,0 +1,299 @@
+Name,Team,Age,Position,Apps,Mins,Goals,Assists,SpG,KeyP,Drb,Fouled,Off,Disp,UnsTch,Rating
+Harry Kane,"Bayern, ",30,",  AM(C),FW  ",32,2844	,36	,8	,4.6	,1	,0.8	,1.2	,0.4	,1.4	,1.4	,7.82
+Serhou Guirassy,"Stuttgart, ",28,",  AM(L),FW  ",25(3),2214	,28	,2	,3.3	,1.9	,0.6	,2	,0.6	,1.4	,2.5	,7.73
+Leroy Sané,"Bayern, ",28,",  M(CLR),FW  ",25(2),2142	,8	,11	,2.7	,2.7	,3.4	,0.8	,0.4	,1.6	,2.3	,7.68
+Jamal Musiala,"Bayern, ",21,",  M(CLR)  ",20(4),1767	,10	,6	,2.4	,1.8	,3.6	,1.6	,0.1	,2.1	,2.8	,7.65
+Álex Grimaldo,"Leverkusen, ",28,",  D(L),M(L)  ",31(2),2787	,10	,13	,2.2	,2.4	,0.6	,0.8	,0.1	,0.5	,1.5	,7.58
+Xavi Simons,"RBL, ",21,",  AM(CLR),FW  ",32,2675	,8	,11	,2.5	,2.5	,2.6	,2.2	,-	,1.5	,2.4	,7.58
+Florian Wirtz,"Leverkusen, ",21,",  AM(CL),FW  ",26(6),2384	,11	,11	,2.2	,2.3	,2.5	,0.8	,0.2	,2.5	,2.6	,7.50
+Victor Boniface,"Leverkusen, ",23,",  FW  ",18(5),1554	,14	,8	,3.5	,1	,2	,0.7	,0.8	,1.3	,2.5	,7.49
+Deniz Undav,"Stuttgart, ",27,",  AM(C),FW  ",23(7),2100	,18	,9	,3.6	,1.3	,0.9	,0.9	,0.1	,1.7	,1.9	,7.45
+Exequiel Palacios,"Leverkusen, ",25,",  M(C)  ",21(3),1841	,4	,5	,0.9	,1.2	,1	,2.3	,-	,0.5	,0.9	,7.32
+Jan-Niklas Beste,"FC Heidenheim, ",25,",  D(L),M(CLR)  ",31,2625	,8	,11	,1.6	,2.3	,1	,1.6	,0.1	,1	,1.7	,7.32
+Loïs Openda,"RBL, ",24,",  FW  ",33(1),2716	,24	,7	,3.6	,1	,0.6	,1.9	,1	,1.1	,2.1	,7.32
+Maximilian Mittelstädt,"Stuttgart, ",27,",  D(L),M(CL)  ",23(8),2106	,2	,4	,0.7	,1	,1.2	,1	,-	,0.7	,1	,7.28
+David Raum,"RBL, ",26,",  D(L),M(LR)  ",31,2745	,2	,8	,0.5	,2.2	,0.6	,0.4	,0.1	,0.5	,1.1	,7.20
+Kevin Stöger,"Bochum, ",30,",  M(CL)  ",32,2679	,7	,9	,2.3	,4	,0.8	,2	,-	,1.3	,1.4	,7.19
+Dani Olmo,"RBL, ",26,",  AM(CLR),FW  ",17(4),1455	,4	,5	,2.1	,1.5	,1.5	,0.8	,-	,1.2	,1.3	,7.17
+Andrej Kramaric,"Hoffenheim, ",33,",  AM(CLR),FW  ",25(5),2207	,15	,6	,2.3	,2.6	,0.8	,1.2	,0.3	,0.9	,1.6	,7.17
+Chris Führich,"Stuttgart, ",26,",  M(CLR),FW  ",33(1),2595	,8	,7	,1.6	,1.6	,2.1	,0.3	,0.1	,0.8	,1.6	,7.15
+Alphonso Davies,"Bayern, ",23,",  D(L),M(LR)  ",24(5),2067	,2	,5	,0.4	,1.3	,2.4	,0.7	,-	,0.8	,1.4	,7.13
+Granit Xhaka,"Leverkusen, ",31,",  D(L),M(C)  ",32(1),2828	,3	,-	,1.4	,1.2	,0.5	,1.3	,-	,0.9	,0.9	,7.13
+Joshua Kimmich,"Bayern, ",29,",  D(CR),DMC,M(R)  ",27(1),2186	,1	,6	,0.9	,2.6	,0.4	,0.9	,0.1	,0.6	,0.7	,7.13
+Omar Marmoush,"Eintracht Frankfurt, ",25,",  AM(CL),FW  ",27(2),2311	,12	,6	,2.7	,1.4	,1.3	,2.6	,0.4	,2	,3.4	,7.11
+Jonas Hofmann,"Leverkusen, ",31,",  D(R),M(CLR),FW  ",26(6),2215	,5	,7	,1.9	,2.5	,0.6	,0.6	,0.4	,0.5	,1.1	,7.11
+Donyell Malen,"Borussia Dortmund, ",25,",  AM(LR),FW  ",21(6),1786	,13	,1	,2.7	,0.8	,1.6	,0.9	,0.1	,1.4	,1.9	,7.10
+Leon Goretzka,"Bayern, ",29,",  M(CR)  ",25(5),2243	,6	,7	,1.9	,1.1	,0.4	,0.5	,0.1	,0.5	,0.5	,7.08
+Jeremie Frimpong,"Leverkusen, ",23,",  D(R),M(R)  ",27(4),2265	,9	,7	,1.8	,1.5	,1.5	,1.1	,0.4	,1.2	,1.6	,7.08
+Tim Kleindienst,"FC Heidenheim, ",28,",  FW  ",33,2877	,12	,3	,2.5	,0.8	,0.6	,0.4	,0.5	,1.7	,3.3	,7.06
+Amadou Haidara,"RBL, ",26,",  M(CLR)  ",19(2),1537	,2	,1	,1	,0.8	,0.4	,0.7	,0.1	,0.4	,0.6	,7.06
+Anton Stach,"Hoffenheim, ",25,",  M(C)  ",26(5),2326	,2	,3	,1.2	,0.6	,0.8	,1.3	,-	,0.5	,1.3	,7.05
+Angelo Stiller,"Stuttgart, ",23,",  DMC  ",30(1),2697	,1	,5	,0.5	,1.7	,0.5	,1.1	,-	,0.9	,1.3	,7.04
+Sepp van den Berg,"Mainz, ",22,",  D(CR),M(R)  ",31(2),2839	,3	,-	,0.8	,0.2	,0.1	,0.5	,-	,0.1	,0.3	,7.04
+Julian Brandt,"Borussia Dortmund, ",28,",  M(CLR),FW  ",26(6),2232	,7	,11	,1	,2.5	,0.8	,0.5	,0.2	,1.3	,1.4	,7.03
+Kim Min-Jae,"Bayern, ",27,",  D(C)  ",22(3),1971	,1	,1	,0.4	,0.3	,0.1	,0.1	,-	,0.2	,0.2	,7.03
+Mitchell Weiser,"Werder Bremen, ",30,",  D(R),M(R)  ",30,2639	,3	,7	,1.5	,1.2	,1.7	,1.3	,0.1	,1.1	,1.8	,7.01
+Franck Honorat,"Borussia M.Gladbach, ",27,",  M(LR),FW  ",28(4),2359	,3	,9	,0.9	,2.8	,0.7	,0.4	,0.2	,0.6	,0.8	,7.00
+Patrick Mainka,"FC Heidenheim, ",29,",  D(C)  ",34,3060	,2	,-	,0.9	,0.1	,0.3	,0.5	,0.1	,0.1	,0.4	,7.00
+Nico Schlotterbeck,"Borussia Dortmund, ",24,",  D(C)  ",32(1),2861	,2	,1	,0.8	,0.5	,0.2	,1	,-	,0.1	,0.6	,6.99
+Jonas Wind,"Wolfsburg, ",25,",  AM(C),FW  ",31(3),2662	,11	,7	,2.1	,1.1	,0.4	,1.3	,0.3	,1	,1.9	,6.98
+Benjamin Henrichs,"RBL, ",27,",  D(LR),DMC,M(LR)  ",28(5),2532	,1	,5	,1.1	,1.2	,1	,1.1	,0.1	,0.6	,1	,6.98
+Ermedin Demirovic,"Augsburg, ",26,",  AM(CL),FW  ",33,2881	,15	,9	,2.5	,1	,0.9	,1.1	,0.5	,1.2	,2.3	,6.98
+Maximilian Beier,"Hoffenheim, ",21,",  AM(LR),FW  ",29(4),2434	,16	,1	,2.5	,0.7	,1	,1	,0.4	,1	,2.4	,6.98
+Marvin Ducksch,"Werder Bremen, ",30,",  AM(C),FW  ",32(1),2713	,12	,9	,2.4	,1.8	,0.4	,0.5	,0.5	,0.5	,1.6	,6.96
+Jonathan Tah,"Leverkusen, ",28,",  D(C)  ",30(1),2633	,4	,1	,0.8	,0.2	,0.2	,0.1	,-	,0.2	,0.4	,6.96
+Waldemar Anton,"Stuttgart, ",27,",  D(CR),DMC  ",32(1),2888	,-	,3	,0.8	,0.3	,0.5	,0.8	,-	,0.4	,0.8	,6.96
+Niclas Füllkrug,"Borussia Dortmund, ",31,",  FW  ",27(2),2225	,12	,8	,1.8	,1.2	,0.2	,1.3	,0.4	,0.8	,1.7	,6.96
+Josip Stanisic,"Leverkusen, ",24,",  D(CR),M(R)  ",13(7),1257	,3	,1	,0.5	,0.6	,0.6	,0.4	,0.1	,0.3	,0.7	,6.94
+Enzo Millot,"Stuttgart, ",21,",  M(C)  ",27(4),2256	,5	,4	,1.3	,1.1	,1.5	,1.1	,0.1	,1.1	,2.2	,6.94
+Ritsu Doan,"Freiburg, ",26,",  M(CLR),FW  ",26(4),2255	,7	,2	,1.2	,1	,1.8	,1.2	,0.1	,1.2	,1.6	,6.93
+Xaver Schlager,"RBL, ",26,",  M(C)  ",29,2482	,-	,5	,0.7	,0.9	,0.7	,0.9	,0.1	,0.9	,1.1	,6.93
+Oliver Baumann,"Hoffenheim, ",34,",  GK  ",34,3060	,-	,1	,-	,0.1	,-	,0.2	,-	,-	,-	,6.92
+Vincenzo Grifo,"Freiburg, ",31,",  AM(CL)  ",29(3),2347	,8	,8	,1.5	,1.8	,0.7	,0.5	,0.2	,0.6	,1.2	,6.92
+Odilon Kossounou,"Leverkusen, ",23,",  D(CR)  ",21(1),1813	,1	,-	,0.2	,0.5	,1	,0.3	,-	,0.7	,0.5	,6.92
+Noussair Mazraoui,"Bayern, ",26,",  D(LR)  ",15(4),1198	,-	,3	,0.6	,0.8	,0.6	,0.6	,-	,0.3	,0.7	,6.90
+Bernardo,"Bochum, ",29,",  D(CLR),M(L)  ",33,2926	,1	,-	,0.9	,0.4	,0.4	,0.8	,0.1	,0.5	,1	,6.90
+Marco Friedl,"Werder Bremen, ",26,",  D(CL),M(L)  ",25,2199	,1	,-	,0.3	,-	,0.2	,0.7	,-	,0.2	,0.5	,6.90
+Robin Gosens,"Union Berlin, ",30,",  D(L),M(CL)  ",27(3),2300	,6	,3	,1.1	,1.1	,0.2	,0.8	,0.6	,0.3	,1	,6.90
+Keven Schlotterbeck,"Bochum, ",27,",  D(C)  ",24(3),2184	,5	,1	,1	,0.4	,0.2	,1.2	,-	,-	,0.4	,6.89
+Dan-Axel Zagadou,"Stuttgart, ",25,",  D(CL)  ",16(3),1453	,1	,-	,0.6	,0.2	,0.2	,0.2	,0.1	,0.1	,0.3	,6.89
+Emre Can,"Borussia Dortmund, ",30,",  D(CLR),DMC  ",22(3),1956	,2	,2	,0.7	,0.8	,0.6	,0.9	,-	,0.8	,1.2	,6.88
+Marco Reus,"Borussia Dortmund, ",35,",  M(CLR),FW  ",18(8),1612	,6	,6	,1.6	,1.4	,0.3	,0.8	,0.2	,0.6	,1.6	,6.88
+Robert Andrich,"Leverkusen, ",29,",  D(C),M(C)  ",18(10),1683	,4	,2	,0.8	,0.8	,0.3	,0.5	,-	,0.3	,0.5	,6.88
+Timo Hübers,"FC Koln, ",27,",  D(C)  ",31,2779	,-	,-	,0.7	,0.2	,0.1	,0.8	,-	,0.2	,0.4	,6.88
+Jeff Chabot,"FC Koln, ",26,",  D(C)  ",32,2708	,-	,-	,0.6	,0.3	,0.3	,1.3	,0.1	,0.1	,0.6	,6.88
+Marcel Sabitzer,"Borussia Dortmund, ",30,",  M(CLR),FW  ",23(2),1966	,4	,3	,1.9	,0.9	,0.4	,1.1	,-	,0.6	,0.9	,6.87
+Wout Weghorst,"Hoffenheim, ",31,",  FW  ",24(4),1987	,7	,3	,1.4	,1.2	,0.1	,1.2	,0.5	,0.7	,1.9	,6.87
+Thomas Müller,"Bayern, ",34,",  M(CLR),FW  ",20(11),1660	,5	,9	,1.2	,1.6	,0.4	,0.7	,0.5	,0.7	,0.9	,6.86
+Atakan Karazor,"Stuttgart, ",27,",  D(C),DMC  ",31(2),2630	,-	,4	,0.6	,0.9	,0.2	,1.8	,-	,0.6	,0.7	,6.86
+Willi Orbán,"RBL, ",31,",  D(C)  ",18(1),1583	,-	,-	,0.4	,0.4	,0.1	,0.5	,-	,0.1	,0.4	,6.86
+Michael Zetterer,"Werder Bremen, ",28,",  GK  ",27,2430	,-	,-	,-	,0.1	,-	,0.3	,-	,-	,0.1	,6.85
+Hiroki Ito,"Stuttgart, ",25,",  D(CL)  ",25(1),2232	,-	,2	,0.7	,0.7	,0.3	,0.3	,0.1	,0.2	,0.5	,6.85
+Max Wöber,"Borussia M.Gladbach, ",26,",  D(CL)  ",24(1),2070	,2	,3	,0.8	,0.5	,0.1	,0.1	,0.2	,0.1	,0.2	,6.84
+Mats Hummels,"Borussia Dortmund, ",35,",  D(C)  ",20(5),1583	,3	,-	,0.6	,0.4	,0.1	,0.4	,-	,0.2	,0.3	,6.84
+Gregor Kobel,"Borussia Dortmund, ",26,",  GK  ",27,2366	,-	,-	,-	,-	,-	,0.1	,-	,-	,-	,6.84
+Benjamin Sesko,"RBL, ",21,",  FW  ",17(14),1532	,14	,2	,1.5	,0.4	,0.5	,0.3	,0.4	,1.2	,1	,6.83
+Leandro Barreiro,"Mainz, ",24,",  DMC  ",29(2),2607	,4	,1	,1.2	,0.6	,0.5	,1.7	,0.1	,0.5	,1.4	,6.83
+Alassane Pléa,"Borussia M.Gladbach, ",31,",  AM(CLR),FW  ",24(3),1914	,7	,4	,2.1	,1.3	,0.8	,1.1	,0.2	,1.2	,1.3	,6.82
+Brajan Gruda,"Mainz, ",20,",  AM(C)  ",19(9),1652	,4	,3	,1.1	,1.5	,2.5	,1.7	,0.3	,1.8	,2.5	,6.82
+Phillip Tietz,"Augsburg, ",27,",  FW  ",31(3),2407	,8	,4	,1.5	,0.9	,0.4	,0.5	,0.5	,0.6	,2.1	,6.81
+Florian Grillitsch,"Hoffenheim, ",28,",  D(C),M(CL)  ",25(5),2297	,1	,6	,0.7	,0.6	,0.4	,0.8	,-	,0.4	,0.4	,6.81
+Kevin Behrens,"Union Berlin, ",33,",  FW  ",14(4),1266	,4	,-	,2.3	,0.9	,0.2	,1.1	,0.4	,0.7	,2.2	,6.81
+Mohamed Simakan,"RBL, ",24,",  D(CR)  ",23(9),2140	,2	,3	,0.9	,0.5	,0.4	,0.8	,0.1	,0.3	,0.8	,6.79
+Robin Hack,"Borussia M.Gladbach, ",25,",  AM(CLR),FW  ",14(15),1348	,10	,2	,1.5	,0.9	,0.9	,0.8	,0.3	,1.2	,1.7	,6.78
+Frederik Rønnow,"Union Berlin, ",31,",  GK  ",33,2970	,-	,-	,0.1	,-	,-	,0.1	,-	,-	,-	,6.78
+Pavel Kaderábek,"Hoffenheim, ",32,",  D(R),M(LR)  ",28(1),2421	,3	,4	,0.7	,1.3	,0.1	,0.4	,-	,0.4	,0.4	,6.78
+Lukás Hrádecky,"Leverkusen, ",34,",  GK  ",33,2970	,-	,-	,-	,-	,-	,-	,-	,-	,-	,6.78
+Amine Adli,"Leverkusen, ",24,",  AM(CLR),FW  ",8(15),892	,4	,4	,1.2	,0.9	,0.6	,1.2	,0.3	,0.4	,0.7	,6.78
+Julian Ryerson,"Borussia Dortmund, ",26,",  D(LR),M(CLR)  ",20(1),1772	,4	,1	,0.9	,0.7	,0.8	,1.2	,-	,1.2	,1.4	,6.78
+Lucas Höler,"Freiburg, ",30,",  AM(CLR),FW  ",26(7),2311	,7	,2	,1	,1	,0.4	,1.5	,0.2	,0.6	,1.8	,6.78
+Edmond Tapsoba,"Leverkusen, ",25,",  D(C)  ",23(5),2085	,-	,1	,0.4	,0.3	,0.5	,0.1	,-	,0.3	,0.5	,6.78
+Junior Dina Ebimbe,"Eintracht Frankfurt, ",23,",  M(CLR)  ",25(6),1972	,5	,3	,1.7	,0.6	,1.4	,0.5	,0.1	,1	,1.9	,6.77
+Max Finkgräfe,"FC Koln, ",20,",  D(L)  ",18(6),1757	,1	,-	,0.5	,1	,1.5	,0.9	,-	,1	,1.5	,6.77
+Julian Weigl,"Borussia M.Gladbach, ",28,",  D(C),DMC  ",31,2766	,2	,3	,0.6	,0.8	,0.5	,1	,-	,0.3	,0.5	,6.77
+Michael Gregoritsch,"Freiburg, ",30,",  AM(CR),FW  ",19(13),1686	,7	,4	,2.3	,0.5	,0.2	,0.6	,0.2	,0.4	,1.1	,6.77
+Maximilian Arnold,"Wolfsburg, ",30,",  M(CR)  ",27(3),2504	,2	,1	,1.1	,1.6	,0.2	,1.5	,-	,0.6	,0.7	,6.76
+Ellyes Skhiri,"Eintracht Frankfurt, ",29,",  DMC  ",24(3),2170	,2	,1	,0.7	,0.7	,0.4	,0.7	,0.1	,0.9	,1	,6.76
+Mathys Tel,"Bayern, ",19,",  Forward  ",6(24),1031	,7	,5	,1.4	,0.4	,1.2	,0.5	,0.1	,1.1	,1.2	,6.76
+Patrik Schick,"Leverkusen, ",28,",  AM(R),FW  ",12(8),1065	,7	,-	,2	,0.5	,0.4	,0.7	,0.3	,0.9	,1.2	,6.76
+Nico Elvedi,"Borussia M.Gladbach, ",27,",  D(CLR)  ",28(2),2485	,2	,1	,0.6	,0.1	,0.2	,0.6	,-	,0.1	,0.2	,6.76
+Raphaël Guerreiro,"Bayern, ",30,",  D(L),M(CL)  ",13(7),1194	,3	,-	,0.9	,1.2	,0.7	,0.4	,-	,0.6	,0.5	,6.76
+Jens Stage,"Werder Bremen, ",27,",  M(C)  ",26(4),2333	,3	,1	,1.3	,0.8	,0.2	,1.3	,0.1	,0.5	,0.5	,6.75
+Eren Dinkçi,"FC Heidenheim, ",22,",  AM(CR)  ",33,2677	,10	,4	,1.5	,1.1	,1.2	,0.7	,0.1	,1.4	,3	,6.75
+Jonathan Burkardt,"Mainz, ",23,",  AM(CR),FW  ",18(3),1542	,8	,2	,2	,0.7	,1.1	,1.7	,0.1	,1.8	,2.5	,6.75
+Konrad Laimer,"Bayern, ",27,",  D(R),M(CR)  ",18(11),1770	,-	,3	,0.6	,0.9	,0.8	,0.5	,0.1	,0.6	,0.9	,6.75
+Lee Jae-Sung,"Mainz, ",31,",  AM(CLR),FW  ",24(5),2128	,6	,3	,1.3	,1.1	,0.5	,0.9	,0.3	,0.8	,1.4	,6.75
+Piero Hincapié,"Leverkusen, ",22,",  D(CL),M(L)  ",16(10),1484	,1	,2	,0.7	,0.2	,-	,0.4	,-	,0.2	,0.4	,6.74
+Iago,"Augsburg, ",27,",  D(L),M(L)  ",18(5),1625	,1	,1	,0.8	,0.7	,0.8	,1	,0.2	,0.4	,1	,6.74
+Willian Pacho,"Eintracht Frankfurt, ",22,",  D(C)  ",33,2970	,-	,2	,0.3	,0.2	,0.4	,0.4	,-	,0.2	,0.7	,6.74
+Rocco Reitz,"Borussia M.Gladbach, ",22,",  M(C)  ",24(10),2142	,6	,3	,1	,0.6	,0.6	,1.3	,0.1	,0.9	,1.2	,6.74
+Aleksandar Pavlovic,"Bayern, ",20,",  DMC  ",14(5),1231	,2	,2	,0.4	,0.6	,0.3	,0.8	,-	,0.7	,0.6	,6.73
+Moritz Nicolas,"Borussia M.Gladbach, ",26,",  GK  ",27,2430	,-	,-	,-	,-	,-	,0.1	,-	,-	,-	,6.73
+Tuta,"Eintracht Frankfurt, ",25,",  D(C)  ",30,2608	,1	,2	,0.6	,0.4	,0.4	,0.6	,-	,0.5	,0.8	,6.73
+Eric Martel,"FC Koln, ",22,",  DMC  ",29(1),2464	,1	,1	,0.9	,0.4	,0.2	,1.4	,0.1	,0.8	,0.8	,6.73
+Danilho Doekhi,"Union Berlin, ",26,",  D(C)  ",24,2160	,2	,-	,0.7	,0.2	,0.1	,0.8	,-	,0.1	,0.4	,6.72
+Maxence Lacroix,"Wolfsburg, ",24,",  D(C)  ",27(1),2365	,4	,1	,0.4	,0.3	,0.3	,0.7	,-	,-	,0.7	,6.71
+Romano Schmid,"Werder Bremen, ",24,",  AM(CLR),FW  ",30(3),2617	,4	,6	,1.2	,1.5	,1.2	,1.6	,0.1	,1.8	,2.4	,6.71
+Ozan Kabak,"Hoffenheim, ",24,",  D(C)  ",28,2293	,4	,1	,0.7	,0.3	,0.3	,0.3	,-	,0.2	,0.5	,6.71
+Manu Koné,"Borussia M.Gladbach, ",23,",  DMC  ",18(4),1567	,1	,-	,1.1	,1.1	,1.7	,1.6	,0.1	,1.9	,1.9	,6.70
+Ivan Ordets,"Bochum, ",32,",  D(C)  ",21(3),1879	,1	,-	,0.7	,0.2	,-	,0.8	,0.1	,-	,0.2	,6.70
+Jan Schöppner,"FC Heidenheim, ",25,",  M(C)  ",23(3),2002	,2	,2	,0.7	,0.5	,0.4	,0.5	,-	,0.5	,1.2	,6.70
+Ko Itakura,"Borussia M.Gladbach, ",27,",  D(C),DMC  ",18(2),1599	,3	,-	,1.1	,0.3	,0.3	,0.2	,-	,0.3	,0.4	,6.70
+Jamie Bynoe-Gittens,"Borussia Dortmund, ",19,",  AM(L)  ",14(11),1061	,1	,4	,1.7	,0.7	,1.7	,1	,-	,1.2	,1.4	,6.70
+Anthony Caci,"Mainz, ",27,",  D(CLR),M(LR)  ",29(2),2493	,2	,3	,1	,0.8	,0.7	,0.5	,-	,0.3	,0.7	,6.70
+Kevin Müller,"FC Heidenheim, ",33,",  GK  ",34,3060	,-	,-	,-	,-	,-	,0.1	,-	,-	,0.1	,6.70
+Felix Uduokhai,"Augsburg, ",26,",  D(C)  ",33,2923	,2	,-	,0.4	,0.3	,0.2	,0.7	,-	,0.2	,0.5	,6.69
+Farès Chaïbi,"Eintracht Frankfurt, ",21,",  AM(CL),FW  ",21(7),1924	,2	,4	,1.4	,1.8	,0.3	,0.4	,0.3	,0.6	,1.5	,6.69
+Niels Nkounkou,"Eintracht Frankfurt, ",23,",  D(L),M(L)  ",13(16),1304	,3	,2	,0.8	,0.6	,1.6	,0.1	,-	,0.3	,0.8	,6.69
+Nicolas Höfler,"Freiburg, ",34,",  D(C),DMC  ",26(2),2333	,1	,1	,0.6	,0.3	,0.5	,1.1	,-	,0.7	,0.7	,6.68
+Matthijs de Ligt,"Bayern, ",24,",  D(C)  ",16(6),1391	,2	,-	,0.6	,0.1	,0.1	,0.4	,-	,0.1	,0.4	,6.68
+Phillipp Mwene,"Mainz, ",30,",  D(LR),M(LR)  ",23,2004	,1	,2	,1	,1	,0.7	,0.6	,0.1	,0.6	,1.1	,6.68
+Robin Koch,"Eintracht Frankfurt, ",27,",  D(C),DMC  ",31,2740	,2	,-	,0.8	,0.1	,0.1	,0.4	,-	,0.1	,0.3	,6.68
+Joakim Mæhle,"Wolfsburg, ",27,",  D(LR),M(LR)  ",27(3),2455	,2	,3	,0.7	,0.7	,0.7	,0.5	,0.1	,0.5	,1.2	,6.68
+Fredrik Jensen,"Augsburg, ",26,",  AM(CLR),FW  ",18(4),1352	,2	,4	,0.6	,1.5	,0.2	,0.1	,0.2	,0.5	,1	,6.68
+Kevin Mbabu,"Augsburg, ",29,",  D(R),M(R)  ",22(3),2049	,-	,2	,0.2	,0.8	,1.2	,1	,0.1	,1	,1.6	,6.67
+Davie Selke,"FC Koln, ",29,",  FW  ",16(3),1274	,6	,-	,1.7	,0.6	,0.3	,0.9	,0.5	,0.6	,1.1	,6.67
+John Anthony Brooks,"Hoffenheim, ",31,",  D(C)  ",18(3),1541	,2	,-	,0.5	,0.1	,0.1	,0.6	,-	,0.2	,0.1	,6.67
+Matthias Ginter,"Freiburg, ",30,",  D(CR),DMC  ",22(1),1918	,-	,2	,0.3	,0.2	,0.1	,0.7	,-	,0.1	,0.3	,6.67
+Jeffrey Gouweleeuw,"Augsburg, ",33,",  D(C)  ",29(1),2595	,1	,-	,0.8	,0.5	,0.5	,0.3	,0.1	,0.2	,0.4	,6.67
+Tim Skarke,"Darmstadt, ",27,",  AM(CLR),FW  ",29(1),2418	,8	,-	,2.3	,1	,0.9	,1.3	,0.6	,0.8	,1.8	,6.65
+Lovro Majer,"Wolfsburg, ",26,",  AM(CR)  ",25(7),2121	,5	,5	,1.2	,1.2	,0.8	,1.2	,-	,0.8	,1.8	,6.65
+Ihlas Bebou,"Hoffenheim, ",30,",  M(CLR),FW  ",16(16),1631	,7	,5	,1.2	,0.5	,0.8	,0.7	,0.2	,0.8	,2	,6.65
+Alexander Nübel,"Stuttgart, ",27,",  GK  ",30,2700	,-	,-	,-	,-	,-	,0.1	,-	,-	,-	,6.64
+Florian Kainz,"FC Koln, ",31,",  M(CLR)  ",29(4),2212	,5	,4	,0.8	,1.6	,0.7	,1	,-	,0.8	,0.8	,6.64
+Jordan Siebatcheu,"Borussia M.Gladbach, ",28,",  FW  ",18(7),1441	,5	,3	,1.4	,0.8	,0.1	,1.2	,0.3	,1.2	,1.7	,6.64
+Philipp Hofmann,"Bochum, ",31,",  FW  ",18(11),1578	,4	,2	,1.3	,0.7	,0.3	,0.9	,0.1	,0.5	,1.5	,6.64
+Arne Maier,"Augsburg, ",25,",  M(CR)  ",10(12),1000	,2	,4	,1	,1.3	,0.5	,0.2	,-	,0.5	,0.6	,6.63
+Mattias Svanberg,"Wolfsburg, ",25,",  M(CLR)  ",20(5),1727	,1	,3	,1.7	,1	,0.6	,1.3	,0.1	,0.4	,1.4	,6.63
+Fabian Nürnberger,"Darmstadt, ",24,",  D(L),M(CL)  ",17(4),1519	,1	,1	,0.9	,1.4	,0.9	,0.8	,-	,0.7	,0.7	,6.63
+Diogo Leite,"Union Berlin, ",25,",  D(C)  ",31(1),2708	,-	,-	,0.4	,0.2	,0.2	,1	,-	,0.2	,0.8	,6.63
+Pascal Stenzel,"Stuttgart, ",28,",  D(CR),M(R)  ",14(9),1092	,-	,5	,0.6	,0.7	,0.3	,0.5	,-	,0.3	,0.7	,6.62
+Dayot Upamecano,"Bayern, ",25,",  D(C)  ",19(6),1765	,1	,-	,0.4	,0.2	,0.2	,0.3	,0.1	,0.2	,0.4	,6.62
+Anthony Losilla,"Bochum, ",38,",  D(C),DMC  ",31,2588	,1	,2	,0.9	,0.6	,0.3	,0.7	,0.2	,0.4	,0.9	,6.62
+Nathan Tella,"Leverkusen, ",25,",  M(CLR),FW  ",8(16),811	,5	,2	,0.9	,0.6	,0.3	,0.8	,0.2	,0.6	,0.8	,6.62
+Yussuf Poulsen,"RBL, ",30,",  AM(CR),FW  ",12(16),1213	,5	,2	,1	,0.5	,0.4	,1	,0.1	,0.7	,0.9	,6.62
+Noah Atubolu,"Freiburg, ",22,",  GK  ",34,3060	,-	,-	,-	,-	,-	,0.1	,-	,-	,0.1	,6.62
+Maximilian Eggestein,"Freiburg, ",27,",  M(CR)  ",33,2919	,1	,1	,1.2	,0.8	,0.6	,0.7	,0.1	,0.6	,0.9	,6.61
+Niklas Süle,"Borussia Dortmund, ",28,",  D(CR)  ",14(9),1510	,1	,-	,0.3	,0.2	,0.1	,-	,-	,0.3	,0.1	,6.61
+Luca Netz,"Borussia M.Gladbach, ",21,",  D(L),M(L)  ",25(5),2233	,-	,4	,0.6	,1.3	,0.8	,0.5	,-	,0.9	,1.1	,6.61
+Marvin Mehlem,"Darmstadt, ",26,",  M(CL)  ",19(1),1490	,3	,2	,1.2	,1.1	,0.5	,1.7	,0.4	,1	,1.9	,6.61
+Lukas Kübler,"Freiburg, ",31,",  D(CLR),M(R)  ",22(4),1853	,1	,-	,0.3	,0.2	,0.1	,0.9	,0.1	,0.2	,0.3	,6.61
+Florian Neuhaus,"Borussia M.Gladbach, ",27,",  M(C)  ",15(10),1226	,4	,2	,1.6	,0.8	,0.4	,0.7	,-	,0.6	,0.5	,6.61
+Manuel Riemann,"Bochum, ",35,",  GK  ",33,2970	,-	,-	,-	,0.1	,-	,0.1	,-	,-	,0.1	,6.61
+Robin Zentner,"Mainz, ",29,",  GK  ",30,2700	,-	,-	,-	,-	,-	,0.1	,-	,-	,-	,6.60
+Luca Pfeiffer,"Darmstadt, ",27,",  AM(C),FW  ",20(4),1628	,1	,3	,2	,0.8	,0.3	,1.1	,-	,0.8	,1	,6.60
+Roland Sallai,"Freiburg, ",27,",  M(CLR),FW  ",22(5),1852	,3	,-	,2.1	,1.1	,0.8	,1.6	,0.4	,0.6	,1.6	,6.60
+Finn Dahmen,"Augsburg, ",26,",  GK  ",31,2790	,-	,-	,-	,-	,-	,0.1	,-	,-	,-	,6.59
+Maximilian Wittek,"Bochum, ",28,",  D(L),M(LR)  ",13(8),1070	,3	,1	,1.2	,1.1	,0.5	,1.2	,0.1	,0.2	,0.7	,6.59
+Mario Götze,"Eintracht Frankfurt, ",32,",  M(CLR),FW  ",23(7),2077	,3	,2	,0.4	,1.2	,0.6	,1.2	,-	,0.9	,1.1	,6.59
+Senne Lynen,"Werder Bremen, ",25,",  DMC  ",20(12),1795	,-	,3	,0.4	,0.5	,0.3	,0.5	,-	,0.3	,0.5	,6.59
+Felix Nmecha,"Borussia Dortmund, ",23,",  M(C)  ",10(10),1016	,1	,2	,1.2	,0.7	,0.5	,1.4	,0.1	,0.7	,0.9	,6.59
+András Schäfer,"Union Berlin, ",25,",  M(C)  ",14(6),1219	,1	,2	,1.1	,0.9	,1.1	,0.9	,0.1	,1	,1.7	,6.58
+Grischa Prömel,"Hoffenheim, ",29,",  M(C)  ",27(1),2149	,4	,5	,0.9	,0.8	,0.4	,1	,-	,0.9	,1.1	,6.58
+Justin Njinmah,"Werder Bremen, ",23,",  FW  ",10(14),1013	,6	,2	,1.4	,0.5	,1.1	,0.8	,0.4	,0.3	,1.7	,6.58
+Castello Lukeba,"RBL, ",21,",  D(C)  ",24(8),2186	,1	,-	,0.2	,0.1	,0.5	,0.7	,-	,0.3	,0.6	,6.57
+Felix Agu,"Werder Bremen, ",24,",  D(LR),M(LR)  ",19(5),1623	,-	,-	,0.5	,0.3	,0.6	,1.8	,0.1	,0.4	,1.3	,6.57
+Benedikt Gimber,"FC Heidenheim, ",27,",  D(C),DMC  ",24,2027	,1	,1	,0.8	,0.1	,0.3	,1.1	,-	,0.2	,0.5	,6.57
+Moritz Jenz,"Wolfsburg, ",25,",  D(C)  ",21(1),1747	,-	,1	,0.3	,0.2	,-	,0.1	,-	,0.1	,0.3	,6.57
+Silvan Widmer,"Mainz, ",31,",  D(CR),M(R)  ",13(7),1246	,1	,3	,0.7	,0.8	,0.1	,0.2	,0.2	,0.4	,0.7	,6.57
+Anthony Jung,"Werder Bremen, ",32,",  D(CL),M(L)  ",30(1),2584	,1	,-	,0.2	,0.2	,0.2	,0.5	,-	,0.1	,0.4	,6.56
+Silas Katompa Mvumpa,"Stuttgart, ",25,",  M(CLR),FW  ",8(19),890	,5	,2	,0.9	,0.6	,1.4	,0.6	,0.2	,0.7	,1.7	,6.55
+Patrick Osterhage,"Bochum, ",24,",  DMC  ",21(3),1864	,2	,1	,0.9	,0.5	,0.7	,1	,0.1	,0.7	,1.4	,6.55
+Dominik Kohr,"Mainz, ",30,",  D(C),DMC  ",27(4),2190	,1	,-	,0.8	,0.5	,0.2	,0.8	,-	,0.1	,0.7	,6.55
+Lennard Maloney,"FC Heidenheim, ",24,",  D(C),DMC  ",27(2),2294	,1	,1	,0.5	,0.3	,0.2	,0.5	,-	,0.4	,0.7	,6.55
+Josip Juranovic,"Union Berlin, ",28,",  D(LR),M(R)  ",14(7),1291	,-	,2	,0.6	,1.9	,0.5	,0.5	,-	,0.3	,0.6	,6.55
+Robert Skov,"Hoffenheim, ",28,",  D(L),M(LR)  ",14(11),1265	,3	,4	,1.3	,0.9	,0.4	,0.8	,-	,0.2	,1.1	,6.55
+Josha Vagnoman,"Stuttgart, ",23,",  D(LR),M(R)  ",12(6),1183	,2	,2	,0.9	,0.4	,0.6	,0.4	,0.1	,0.6	,1.2	,6.54
+Jan Thielmann,"FC Koln, ",22,",  D(R),M(CLR),FW  ",20(2),1590	,1	,-	,1.7	,0.7	,0.8	,1.2	,0.3	,1.1	,1.8	,6.54
+Robin Knoche,"Union Berlin, ",32,",  D(C)  ",20(4),1917	,1	,-	,0.3	,0.1	,0.1	,0.4	,-	,-	,0.7	,6.54
+Omar Traoré,"FC Heidenheim, ",26,",  D(R)  ",29(2),2478	,-	,2	,0.4	,0.6	,0.6	,1	,-	,0.5	,1.2	,6.54
+Luca Waldschmidt,"FC Koln, ",28,",  AM(CLR),FW  ",14(8),1151	,3	,-	,2	,0.8	,0.8	,0.7	,0.2	,0.6	,1	,6.54
+Marvin Schwäbe,"FC Koln, ",29,",  GK  ",34,3060	,-	,-	,-	,0.1	,-	,-	,-	,-	,-	,6.54
+Matthias Bader,"Darmstadt, ",27,",  D(R),M(R)  ",21(3),1810	,1	,2	,0.7	,0.8	,0.8	,1.7	,-	,0.6	,1.5	,6.54
+Jamie Leweling,"Stuttgart, ",23,",  M(CR),FW  ",17(17),1523	,4	,4	,1.3	,0.7	,0.8	,0.7	,0.2	,1.1	,1.4	,6.53
+Ansgar Knauff,"Eintracht Frankfurt, ",22,",  M(CLR)  ",24(7),2122	,7	,2	,1.2	,0.6	,0.8	,0.8	,0.1	,0.8	,1.4	,6.53
+Kevin Paredes,"Wolfsburg, ",21,",  D(L),M(L)  ",15(13),1430	,3	,-	,0.7	,0.6	,0.5	,1.9	,0.2	,0.6	,1.2	,6.53
+Rafael Borré,"Werder Bremen, ",28,",  AM(C),FW  ",11(8),992	,4	,-	,1.1	,0.7	,0.4	,0.4	,0.7	,0.8	,1.6	,6.53
+Kevin Trapp,"Eintracht Frankfurt, ",34,",  GK  ",32,2880	,-	,-	,-	,-	,-	,0.2	,-	,-	,-	,6.53
+Rubén Vargas,"Augsburg, ",25,",  AM(CLR),FW  ",25(6),1977	,4	,4	,1.6	,0.8	,0.7	,0.9	,0.6	,0.6	,1.9	,6.53
+Marvin Pieringer,"FC Heidenheim, ",24,",  AM(C),FW  ",18(13),1523	,3	,3	,0.9	,0.5	,0.3	,1	,0.2	,0.7	,1.3	,6.52
+Milos Veljkovic,"Werder Bremen, ",28,",  D(C),DMC  ",21(2),1921	,2	,1	,0.3	,0.3	,0.1	,0.2	,-	,0.1	,0.4	,6.52
+Marcel Schuhen,"Darmstadt, ",31,",  GK  ",31,2790	,-	,-	,-	,-	,-	,0.3	,-	,-	,-	,6.51
+Manuel Neuer,"Bayern, ",38,",  GK  ",23,2054	,-	,-	,-	,-	,-	,0.1	,-	,-	,-	,6.51
+Mads Pedersen,"Augsburg, ",27,",  D(LR),M(CL)  ",19(8),1784	,1	,1	,0.5	,0.4	,0.9	,1	,0.1	,0.5	,0.8	,6.51
+Merlin Röhl,"Freiburg, ",22,",  M(C)  ",17(7),1487	,2	,3	,1	,0.8	,0.9	,1.2	,0.1	,1.8	,2.1	,6.51
+Edimilson Fernandes,"Mainz, ",28,",  D(CR),M(CR)  ",13(8),1284	,-	,2	,0.7	,0.9	,0.3	,0.4	,0.1	,0.2	,0.3	,6.50
+Eric Choupo-Moting,"Bayern, ",35,",  M(CLR),FW  ",7(20),704	,2	,2	,1	,0.6	,0.9	,0.3	,0.1	,0.7	,0.7	,6.50
+Kiliann Sildillia,"Freiburg, ",22,",  D(CR),M(R)  ",20(7),1805	,-	,1	,0.3	,0.4	,0.6	,0.4	,0.1	,0.4	,0.9	,6.50
+Christopher Trimmel,"Union Berlin, ",37,",  D(CR),M(R)  ",19(7),1653	,-	,2	,0.2	,1.5	,0.2	,0.2	,0.1	,0.2	,0.4	,6.49
+Yannick Gerhardt,"Wolfsburg, ",30,",  D(L),M(CL)  ",18(7),1636	,2	,1	,0.8	,0.6	,-	,0.6	,0.1	,0.4	,0.5	,6.49
+Ridle Baku,"Wolfsburg, ",26,",  D(R),M(CR)  ",22(11),2014	,1	,-	,0.8	,0.9	,0.5	,1.1	,0.1	,0.6	,1.5	,6.49
+Koen Casteels,"Wolfsburg, ",32,",  GK  ",25,2250	,-	,-	,-	,-	,-	,0.1	,-	,-	,-	,6.48
+Janis Blaswich,"RBL, ",33,",  GK  ",21,1890	,-	,-	,-	,-	,-	,0.1	,-	,-	,-	,6.48
+Lucas Tousart,"Union Berlin, ",27,",  DMC  ",18(5),1578	,-	,-	,1.1	,0.3	,0.4	,0.3	,-	,0.6	,1.5	,6.48
+Hugo Larsson,"Eintracht Frankfurt, ",20,",  M(C)  ",21(8),1886	,2	,1	,0.3	,0.3	,0.2	,0.1	,-	,0.2	,0.9	,6.47
+Nick Woltemade,"Werder Bremen, ",22,",  AM(C),FW  ",12(18),1182	,2	,-	,0.7	,0.8	,1	,0.8	,0.2	,1.8	,1.9	,6.47
+Gonçalo Paciência,"Bochum, ",29,",  FW  ",6(13),646	,3	,1	,2	,0.5	,0.6	,1.2	,0.1	,1.4	,1.5	,6.47
+Christoph Baumgartner,"RBL, ",24,",  AM(CLR),FW  ",11(21),1152	,5	,1	,1	,0.5	,0.6	,0.8	,-	,0.9	,1.2	,6.46
+Tobias Kempe,"Darmstadt, ",35,",  M(CLR)  ",15(9),1351	,3	,2	,0.9	,1.2	,0.3	,0.5	,-	,0.5	,1.2	,6.46
+Leonardo Bittencourt,"Werder Bremen, ",30,",  M(CLR),FW  ",19(10),1585	,1	,2	,1.1	,0.9	,0.6	,1.1	,0.1	,0.4	,1.3	,6.45
+Manuel Gulde,"Freiburg, ",33,",  D(C)  ",23(4),2048	,1	,-	,0.4	,0.1	,0.1	,0.6	,-	,0.1	,0.5	,6.45
+Olivier Deman,"Werder Bremen, ",24,",  M(CLR),FW  ",14(15),1359	,2	,1	,0.6	,0.4	,0.3	,0.4	,-	,0.2	,0.8	,6.45
+Sebastiaan Bornauw,"Wolfsburg, ",25,",  D(C)  ",16(4),1432	,-	,-	,0.5	,0.2	,0.2	,0.3	,0.1	,0.1	,0.5	,6.45
+Nathan Ngoumou,"Borussia M.Gladbach, ",24,",  AM(LR)  ",14(18),1384	,5	,2	,1	,0.5	,0.6	,0.6	,0.2	,0.4	,1	,6.45
+Aurélio Buta,"Eintracht Frankfurt, ",27,",  D(R),M(R)  ",20(10),1748	,1	,1	,0.4	,0.3	,0.4	,0.8	,-	,0.7	,0.7	,6.44
+Dejan Ljubicic,"FC Koln, ",26,",  M(CLR)  ",24(2),2057	,-	,2	,1.5	,1.1	,0.6	,0.5	,-	,0.7	,1.4	,6.44
+Philipp Max,"Eintracht Frankfurt, ",30,",  D(L),M(L)  ",17(6),1360	,1	,2	,0.3	,0.9	,0.3	,0.4	,0.1	,0.1	,0.5	,6.44
+Jonas Föhrenbach,"FC Heidenheim, ",28,",  D(CL)  ",32(1),2790	,-	,-	,0.4	,0.4	,0.2	,0.5	,0.1	,0.3	,0.7	,6.43
+Marius Bülter,"Hoffenheim, ",31,",  D(R),M(CLR),FW  ",15(15),1350	,1	,4	,0.7	,0.7	,0.6	,0.6	,0.1	,0.6	,0.8	,6.43
+Karim Onisiwo,"Mainz, ",32,",  AM(CLR),FW  ",17(7),1498	,1	,3	,1.4	,0.7	,0.8	,1.8	,0.6	,1.2	,2.2	,6.43
+Joe Scally,"Borussia M.Gladbach, ",21,",  D(CLR),M(LR)  ",25(6),2238	,1	,4	,0.4	,0.5	,0.4	,1.5	,-	,0.7	,0.7	,6.43
+Salih Özcan,"Borussia Dortmund, ",26,",  M(C)  ",13(10),1180	,-	,-	,0.2	,0.5	,0.3	,1	,0.1	,0.3	,0.6	,6.43
+Arne Engels,"Augsburg, ",20,",  M(C)  ",13(19),1400	,3	,2	,0.6	,0.6	,0.2	,0.5	,-	,0.2	,0.5	,6.42
+Elvis Rexhbeçaj,"Augsburg, ",26,",  M(C)  ",24(1),1995	,2	,-	,1.2	,0.5	,0.3	,1.7	,0.1	,0.7	,1.5	,6.42
+Rani Khedira,"Union Berlin, ",30,",  D(C),DMC  ",18(2),1350	,-	,-	,0.2	,0.3	,0.2	,0.7	,0.1	,0.5	,0.6	,6.42
+Lukas Klostermann,"RBL, ",28,",  D(CLR),M(R)  ",16(9),1432	,1	,-	,0.2	,0.2	,-	,0.2	,-	,-	,0.2	,6.41
+Youssoufa Moukoko,"Borussia Dortmund, ",19,",  FW  ",4(16),615	,5	,-	,0.7	,0.4	,0.6	,0.1	,0.4	,0.5	,1.1	,6.41
+Kevin Kampl,"RBL, ",33,",  M(CLR)  ",14(12),1361	,1	,-	,0.2	,0.6	,0.4	,0.1	,-	,0.5	,0.6	,6.41
+Christoph Zimmermann,"Darmstadt, ",31,",  D(C)  ",12(7),1214	,-	,-	,0.2	,0.2	,0.1	,0.5	,0.1	,0.1	,0.4	,6.41
+Janik Haberer,"Union Berlin, ",30,",  M(CLR),FW  ",14(7),1224	,1	,1	,0.7	,0.5	,0.4	,0.8	,-	,0.2	,0.8	,6.41
+Anthony Rouault,"Stuttgart, ",23,",  D(C)  ",11(11),1009	,-	,2	,0.1	,0.4	,0.1	,0.2	,-	,0.1	,0.3	,6.41
+Fabian Holland,"Darmstadt, ",33,",  D(L),DMC,M(L)  ",23,1847	,-	,2	,0.5	,0.7	,0.3	,1.4	,-	,0.4	,1	,6.41
+Aster Vranckx,"Wolfsburg, ",21,",  M(C)  ",12(12),1143	,-	,-	,0.2	,0.2	,0.7	,1	,-	,0.5	,0.6	,6.40
+Brenden Aaronson,"Union Berlin, ",23,",  AM(CLR),FW  ",14(16),1267	,2	,2	,0.6	,0.7	,1.1	,0.8	,0.2	,1.3	,1.4	,6.40
+Takuma Asano,"Bochum, ",29,",  AM(CLR),FW  ",26(3),2005	,6	,1	,2.2	,0.7	,0.6	,0.8	,0.8	,1.1	,1.6	,6.40
+Marvin Friedrich,"Borussia M.Gladbach, ",28,",  D(C)  ",17(7),1563	,-	,-	,0.5	,0.2	,0.1	,0.4	,-	,-	,0.4	,6.40
+Karim Adeyemi,"Borussia Dortmund, ",22,",  AM(LR),FW  ",10(11),915	,3	,1	,1.1	,0.4	,0.9	,0.9	,-	,1.2	,1.4	,6.40
+Emir Karic,"Darmstadt, ",27,",  D(L),M(LR)  ",18(9),1783	,-	,-	,0.4	,0.8	,0.7	,0.3	,0.2	,0.4	,0.7	,6.40
+Benedict Hollerbach,"Union Berlin, ",23,",  FW  ",15(13),1283	,5	,-	,1.2	,0.5	,1.1	,0.7	,0.2	,1.9	,2.4	,6.39
+Jeong Woo-Yeong,"Stuttgart, ",24,",  AM(CR),FW  ",5(21),621	,2	,3	,0.7	,0.3	,0.2	,0.3	,0.1	,0.3	,0.7	,6.39
+Adrian Beck,"FC Heidenheim, ",27,",  AM(C)  ",11(12),975	,1	,1	,0.5	,0.5	,0.9	,0.4	,0.1	,0.8	,1.1	,6.38
+Tom Krauß,"Mainz, ",23,",  DMC  ",13(16),1342	,1	,2	,0.7	,0.2	,0.1	,0.6	,-	,0.4	,0.9	,6.38
+Jordy Makengo,"Freiburg, ",22,",  D(L)  ",10(10),1021	,-	,-	,0.2	,0.3	,0.6	,0.6	,0.1	,0.3	,0.7	,6.38
+Oscar Vilhelmsson,"Darmstadt, ",20,",  FW  ",16(10),1375	,4	,1	,1.1	,0.4	,0.2	,1	,0.3	,0.3	,1.1	,6.38
+Cédric Zesiger,"Wolfsburg, ",26,",  D(C)  ",18(5),1635	,-	,-	,0.7	,-	,0.1	,0.4	,-	,0.3	,0.2	,6.38
+Niklas Dorsch,"Augsburg, ",26,",  DMC  ",16(5),1390	,-	,-	,0.7	,0.1	,0.3	,1.3	,-	,0.5	,1	,6.37
+Steffen Tigges,"FC Koln, ",25,",  FW  ",6(19),717	,3	,-	,0.9	,0.4	,0.2	,0.3	,0.1	,0.4	,0.8	,6.37
+Václav Cerny,"Wolfsburg, ",26,",  AM(R)  ",12(10),925	,4	,-	,0.9	,0.6	,0.6	,-	,0.2	,0.7	,1	,6.37
+Kevin Sessa,"FC Heidenheim, ",24,",  D(R),M(CR)  ",7(23),1002	,3	,-	,1	,0.6	,0.4	,0.7	,-	,0.2	,0.8	,6.37
+Christopher Antwi-Adjei,"Bochum, ",30,",  AM(CLR)  ",11(14),1214	,2	,2	,1.2	,1	,0.3	,0.7	,0.7	,1	,1.2	,6.36
+Kevin Volland,"Union Berlin, ",31,",  AM(CLR),FW  ",17(9),1354	,3	,4	,1.4	,0.8	,0.2	,0.5	,0.3	,0.8	,1.3	,6.36
+Norman Theuerkauf,"FC Heidenheim, ",37,",  D(CL),DMC  ",14(11),1258	,-	,1	,0.3	,0.5	,0.1	,0.6	,-	,0.2	,0.4	,6.35
+Umut Tohumcu,"Hoffenheim, ",19,",  M(C)  ",12(8),1017	,-	,2	,0.8	,0.5	,0.2	,1.2	,-	,0.6	,0.5	,6.35
+Noah Weißhaupt,"Freiburg, ",22,",  M(L)  ",6(18),745	,1	,2	,0.1	,0.7	,0.3	,1.3	,0.1	,0.2	,0.8	,6.35
+Danny da Costa,"Mainz, ",30,",  D(R),M(R)  ",9(10),827	,-	,1	,0.3	,0.5	,0.4	,0.2	,-	,0.4	,0.4	,6.35
+Sargis Adamyan,"FC Koln, ",31,",  AM(CLR),FW  ",8(12),798	,1	,2	,1.6	,0.6	,0.4	,0.7	,0.4	,0.9	,1.4	,6.33
+Tomás Cvancara,"Borussia M.Gladbach, ",23,",  FW  ",7(14),892	,4	,1	,1.7	,0.3	,0.2	,0.6	,0.2	,0.5	,1.3	,6.33
+Cristian Gamboa,"Bochum, ",34,",  D(R),M(R)  ",12(10),1187	,-	,1	,0.3	,0.5	,0.2	,0.3	,-	,0.1	,0.5	,6.33
+Ludovic Ajorque,"Mainz, ",30,",  FW  ",15(11),1357	,2	,-	,1.1	,0.6	,0.1	,0.6	,0.2	,0.4	,1.6	,6.32
+Aïssa Laïdouni,"Union Berlin, ",27,",  DMC  ",10(13),1067	,-	,3	,0.6	,0.5	,0.4	,1.2	,-	,0.9	,0.7	,6.32
+Adam Hlozek,"Leverkusen, ",21,",  AM(CL),FW  ",5(18),451	,2	,3	,0.8	,0.4	,0.2	,0.3	,-	,0.6	,0.4	,6.32
+Linton Maina,"FC Koln, ",25,",  M(CLR),FW  ",21(10),1906	,1	,3	,1.1	,0.7	,0.7	,0.5	,0.2	,0.9	,1.2	,6.31
+Nicolas Seiwald,"RBL, ",23,",  DMC  ",6(15),708	,-	,2	,-	,0.2	,0.2	,-	,-	,0.4	,0.1	,6.31
+Benno Schmitz,"FC Koln, ",29,",  D(CLR)  ",13(9),1155	,-	,1	,0.4	,0.2	,0.2	,0.5	,-	,-	,0.3	,6.31
+Christoph Klarer,"Darmstadt, ",24,",  D(C)  ",28(2),2358	,2	,2	,0.3	,0.4	,0.2	,0.4	,0.1	,0.2	,0.2	,6.30
+Marius Wolf,"Borussia Dortmund, ",29,",  D(R),M(CLR)  ",12(10),1163	,-	,1	,0.4	,0.5	,0.5	,0.3	,-	,0.2	,0.9	,6.29
+Faride Alidou,"FC Koln, ",22,",  AM(LR)  ",14(12),1287	,4	,-	,1.3	,0.5	,0.9	,0.9	,0.1	,1	,1.5	,6.29
+Klaus Gjasula,"Darmstadt, ",34,",  D(C),DMC  ",17(5),1367	,-	,-	,0.4	,0.3	,0.1	,0.5	,-	,0.3	,0.3	,6.29
+Denis Huseinbasic,"FC Koln, ",23,",  M(C)  ",18(8),1627	,-	,3	,0.5	,0.6	,0.4	,0.5	,-	,0.7	,0.7	,6.29
+Rasmus Carstensen,"FC Koln, ",23,",  D(R)  ",18(5),1662	,-	,-	,0.4	,0.7	,0.6	,0.6	,0.1	,1	,1.6	,6.29
+Tiago Tomás,"Wolfsburg, ",22,",  AM(CLR),FW  ",11(15),1031	,1	,1	,1	,0.4	,0.8	,1	,0.1	,0.9	,1.9	,6.29
+Moritz Broschinski,"Bochum, ",23,",  FW  ",14(12),1244	,2	,2	,1	,0.6	,0.4	,0.5	,0.4	,1.3	,1.8	,6.29
+Erhan Masovic,"Bochum, ",25,",  D(C),DMC  ",24(5),2218	,-	,-	,0.6	,0.1	,0.1	,0.5	,-	,0.2	,0.5	,6.28
+Jérôme Roussillon,"Union Berlin, ",31,",  D(L),M(L)  ",8(15),744	,-	,1	,0.3	,0.3	,0.2	,0.4	,-	,0.3	,0.7	,6.28
+Alex Král,"Union Berlin, ",26,",  DMC  ",13(11),1366	,-	,-	,0.8	,0.2	,0.2	,0.5	,0.1	,0.5	,0.6	,6.27
+Matús Bero,"Bochum, ",28,",  M(CLR),FW  ",20(4),1669	,1	,1	,1.3	,0.5	,0.2	,0.8	,0.2	,0.7	,1.3	,6.27
+Marco Richter,"Mainz, ",26,",  M(CLR),FW  ",7(13),713	,1	,-	,1.9	,0.6	,0.8	,0.9	,0.2	,0.6	,1.6	,6.26
+Christian Groß,"Werder Bremen, ",35,",  D(C),DMC  ",8(12),792	,-	,1	,0.2	,0.4	,0.1	,0.3	,0.1	,0.2	,0.5	,6.26
+Nikola Dovedan,"FC Heidenheim, ",30,",  AM(CLR),FW  ",5(16),648	,3	,1	,0.7	,0.4	,0.4	,1.1	,-	,0.7	,1.2	,6.25
+Lukas Daschner,"Bochum, ",25,",  AM(C),FW  ",3(17),527	,1	,1	,0.7	,0.5	,0.6	,0.5	,-	,0.4	,0.8	,6.23
+Sven Michel,"Augsburg, ",33,",  AM(L),FW  ",5(17),575	,2	,1	,0.6	,0.5	,0.5	,0.2	,0.2	,0.5	,1	,6.22
+Mikkel Kaufmann,"Union Berlin, ",23,",  FW  ",4(14),481	,1	,-	,0.8	,0.2	,0.2	,0.6	,-	,0.6	,1.5	,6.22
+Dion Beljo,"Augsburg, ",22,",  FW  ",3(23),564	,2	,-	,0.7	,0.3	,0.4	,0.3	,0.2	,0.2	,0.9	,6.21
+Matej Maglica,"Darmstadt, ",25,",  D(C)  ",21(5),1705	,1	,-	,0.4	,0.3	,-	,0.3	,-	,0.2	,0.3	,6.20
+Denis Thomalla,"FC Heidenheim, ",31,",  M(CL),FW  ",3(18),435	,-	,-	,0.1	,0.2	,0.1	,0.1	,-	,0.2	,-	,6.18
+Florian Pick,"FC Heidenheim, ",28,",  AM(CLR)  ",1(21),316	,-	,1	,0.4	,0.4	,0.5	,0.3	,-	,0.3	,0.4	,6.16
+Mathias Honsak,"Darmstadt, ",27,",  AM(CLR),FW  ",10(13),1019	,1	,1	,1	,0.5	,0.4	,0.5	,0.1	,0.6	,2.2	,6.16
+Dawid Kownacki,"Werder Bremen, ",27,",  AM(CLR),FW  ",3(19),368	,-	,-	,0.9	,0.2	,0.1	,0.4	,-	,0.2	,0.8	,6.14
+Finn Becker,"Hoffenheim, ",24,",  M(C)  ",5(17),596	,-	,-	,0.3	,0.3	,0.2	,0.3	,-	,0.5	,0.6	,6.13
+Bartol Franjic,"Darmstadt, ",24,",  D(L),DMC  ",14(6),1233	,-	,1	,0.2	,0.1	,0.4	,0.1	,-	,0.4	,0.7	,6.12
