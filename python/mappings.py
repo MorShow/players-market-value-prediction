@@ -21,3 +21,25 @@ FOOTBALL_LEAGUES = {'Premier League': ["Man City", "Bournemouth", "Everton", "We
                     }
 
 FOOTBALL_LEAGUES_MAPPING = {team: league for league, teams in FOOTBALL_LEAGUES.items() for team in teams}
+
+TEAMS_RANKING = {'A-tier': ["Man City", "Real Madrid", "Bayern", "Barcelona", "Liverpool",
+                            "Arsenal", "Man Utd", "Chelsea", "PSG", "Tottenham", "Inter",
+                            "Juventus", "Atletico", "AC Milan", "Borussia Dortmund"],
+                 'B-tier': ["Newcastle", "Leverkusen", "Aston Villa", "Brighton", "Napoli",
+                            "Real Sociedad", "West Ham", "Atalanta", "RBL", "Roma", "Athletic Club",
+                            "Girona", "Villarreal", "Lazio", "Lyon", "Marseille", "Everton", "Wolves",
+                            "Sevilla", "Valencia", "Real Betis", "Fiorentina", "Nice", "Lille",
+                            "Monaco", "Sassuolo", "Borussia M.Gladbach", "Eintracht Frankfurt",
+                            "Stuttgart", "Union Berlin"],
+                 'C-tier': ["Deportivo Alaves", "Cadiz", "Celta Vigo", "Getafe", "Granada", "Las Palmas",
+                            "Mallorca", "Osasuna", "Rayo Vallecano", "Almeria", "Bologna", "Cagliari", "Empoli",
+                            "Genoa", "Lecce", "Monza", "Salernitana", "Torino", "Udinese", "Verona", "Frosinone",
+                            "Clermont Foot", "Le Havre", "Lens", "Lorient", "Metz", "Montpellier",
+                            "Nantes", "Reims", "Rennes", "Strasbourg", "Toulouse", "Brest", "Augsburg",
+                            "Darmstadt", "Freiburg", "FC Heidenheim", "Hoffenheim", "FC Koln", "Mainz",
+                            "Werder Bremen", "Wolfsburg", "Bochum", "Bournemouth", "Luton", "Brentford",
+                            "Nottingham Forest", "Fulham", "Sheff Utd", "Burnley", "Crystal Palace"]
+                 }
+
+TEAMS_RANKING_MAPPING = {team: rank for rank, teams in TEAMS_RANKING.items() for team in teams}
+
