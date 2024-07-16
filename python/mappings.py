@@ -43,3 +43,28 @@ TEAMS_RANKING = {'A-tier': ["Man City", "Real Madrid", "Bayern", "Barcelona", "L
 
 TEAMS_RANKING_MAPPING = {team: rank for rank, teams in TEAMS_RANKING.items() for team in teams}
 
+EUROPEAN_TOURNAMENTS = {'Champions League': ["Man City", "Newcastle", "Arsenal", "Man Utd",
+                                             "Atletico", "Barcelona", "Real Madrid", "Real Sociedad", "Sevilla",
+                                             "Inter", "Lazio", "AC Milan", "Napoli",
+                                             "Lens", "PSG",
+                                             "Bayern", "Borussia Dortmund", "Union Berlin", "RBL"],
+                        'Europa League': ["West Ham", "Liverpool", "Brighton",
+                                          "Real Betis", "Villarreal",
+                                          "Atalanta", "Roma",
+                                          "Marseille", "Rennes", "Toulouse",
+                                          "Leverkusen", "Freiburg"],
+                        'Conference League': ["Aston Villa", "Fiorentina", "Lille", "Eintracht Frankfurt"],
+                        'None': ["Bournemouth", "Everton", "Luton", "Tottenham", "Brentford", "Chelsea",
+                                 "Nottingham Forest", "Crystal Palace", "Wolves", "Fulham", "Sheff Utd", "Burnley",
+                                 "Deportivo Alaves", "Athletic Club", "Cadiz", "Celta Vigo", "Getafe", "Girona",
+                                 "Granada", "Las Palmas", "Mallorca", "Osasuna", "Rayo Vallecano",
+                                 "Valencia", "Almeria", "Bologna", "Cagliari", "Empoli", "Genoa", "Juventus",
+                                 "Lecce", "Monza", "Salernitana", "Sassuolo", "Torino", "Udinese", "Verona",
+                                 "Frosinone", "Clermont Foot", "Le Havre", "Lorient", "Lyon", "Metz", "Monaco",
+                                 "Montpellier", "Nantes", "Nice", "Reims", "Strasbourg", "Brest", "Augsburg",
+                                 "Borussia M.Gladbach", "Darmstadt", "FC Heidenheim", "Hoffenheim", "FC Koln", "Mainz",
+                                 "Stuttgart", "Werder Bremen", "Wolfsburg", "Bochum"
+                                 ]
+                        }
+
+EUROPEAN_TOURNAMENTS_MAPPING = {team: tournament for tournament, teams in EUROPEAN_TOURNAMENTS.items() for team in teams}
