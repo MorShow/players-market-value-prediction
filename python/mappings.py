@@ -68,3 +68,7 @@ EUROPEAN_TOURNAMENTS = {'Champions League': ["Man City", "Newcastle", "Arsenal",
                         }
 
 EUROPEAN_TOURNAMENTS_MAPPING = {team: tournament for tournament, teams in EUROPEAN_TOURNAMENTS.items() for team in teams}
+
+PLAYERS_OUTSIDE_TOP5 = ['Joselu', 'Nacho', 'Toni Kroos', 'Saúl Ñíguez', 'Mario Hermoso', 'Memphis Depay',
+                        'Eric Choupo-Moting', 'Raphaël Varane', 'Thiago Silva', 'Alexis Sánchez', 'Adrien Rabiot',
+                        'Olivier Giroud', 'Divock Origi', 'Simon Kjær', 'Marco Reus', 'Mats Hummels', 'Marius Wolf']
