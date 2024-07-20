@@ -29,8 +29,7 @@ TEAMS_RANKING = {'A-tier': ["Man City", "Real Madrid", "Bayern", "Barcelona", "L
                             "Real Sociedad", "West Ham", "Atalanta", "RBL", "Roma", "Athletic Club",
                             "Girona", "Villarreal", "Lazio", "Lyon", "Marseille", "Everton", "Wolves",
                             "Sevilla", "Valencia", "Real Betis", "Fiorentina", "Nice", "Lille",
-                            "Monaco", "Sassuolo", "Borussia M.Gladbach", "Eintracht Frankfurt",
-                            "Stuttgart", "Union Berlin"],
+                            "Monaco", "Borussia M.Gladbach", "Eintracht Frankfurt", "Stuttgart", "Union Berlin"],
                  'C-tier': ["Deportivo Alaves", "Cadiz", "Celta Vigo", "Getafe", "Granada", "Las Palmas",
                             "Mallorca", "Osasuna", "Rayo Vallecano", "Almeria", "Bologna", "Cagliari", "Empoli",
                             "Genoa", "Lecce", "Monza", "Salernitana", "Torino", "Udinese", "Verona", "Frosinone",
@@ -38,7 +37,7 @@ TEAMS_RANKING = {'A-tier': ["Man City", "Real Madrid", "Bayern", "Barcelona", "L
                             "Nantes", "Reims", "Rennes", "Strasbourg", "Toulouse", "Brest", "Augsburg",
                             "Darmstadt", "Freiburg", "FC Heidenheim", "Hoffenheim", "FC Koln", "Mainz",
                             "Werder Bremen", "Wolfsburg", "Bochum", "Bournemouth", "Luton", "Brentford",
-                            "Nottingham Forest", "Fulham", "Sheff Utd", "Burnley", "Crystal Palace"]
+                            "Nottingham Forest", "Fulham", "Sheff Utd", "Burnley", "Crystal Palace", "Sassuolo"]
                  }
 
 TEAMS_RANKING_MAPPING = {team: rank for rank, teams in TEAMS_RANKING.items() for team in teams}
@@ -71,4 +70,27 @@ EUROPEAN_TOURNAMENTS_MAPPING = {team: tournament for tournament, teams in EUROPE
 
 PLAYERS_OUTSIDE_TOP5 = ['Joselu', 'Nacho', 'Toni Kroos', 'Saúl Ñíguez', 'Mario Hermoso', 'Memphis Depay',
                         'Eric Choupo-Moting', 'Raphaël Varane', 'Thiago Silva', 'Alexis Sánchez', 'Adrien Rabiot',
-                        'Olivier Giroud', 'Divock Origi', 'Simon Kjær', 'Marco Reus', 'Mats Hummels', 'Marius Wolf']
+                        'Olivier Giroud', 'Divock Origi', 'Simon Kjær', 'Marco Reus', 'Mats Hummels', 'Marius Wolf',
+                        'Nicolò Zaniolo', 'Adam Lallana', 'Emil Holm', 'Rui Patrício', 'Rasmus Kristensen',
+                        'Diego Llorente', 'Iker Muniain', 'Raúl García Escudero', 'Savinho', 'Étienne Capoue',
+                        'Luis Alberto', 'Luís Maximiano', 'Ciro Immobile', 'Felipe Anderson', 'Ernest Nuamah',
+                        'Mama Baldé', 'Pierre-Emerick Aubameyang', 'Óliver Torres', 'Jesús Navas', 'Sergio Ramos',
+                        'Roman Yaremchuk', 'Willian José', 'Guido Rodríguez', 'Marc Roca', 'Alfred Duncan',
+                        'Giacomo Bonaventura', 'Maxime Lopez', 'Alexis Claude-Maurice', 'Yusuf Yazici', 'Adam Ounas',
+                        'Ivan Cavaleiro', 'Wissam Ben Yedder', 'Matheus Henrique', 'Gian Marco Ferrari',
+                        'Grégoire Defrel', 'Marcus Pedersen', 'Max Wöber', 'Robin Koch', 'Matej Maglica',
+                        'Robin Knoche', 'Brenden Aaronson', 'Alex Král', 'Rubén Duarte', 'Ianis Hagi', 'Conan Ledesma',
+                        'Sergi Guardiola', 'Maxi Gómez', 'Lucas Pires', 'Renato Tapia', 'Nemanja Maksimovic',
+                        'Antonio Puertas', 'José Callejón', 'Munir El Haddadi', 'Marvin Park', 'Iddrisu Baba',
+                        'Matija Nastasic', 'Jaume Costa', 'Radamel Falcao', 'Nahitan Nández', 'Bartosz Bereszynski',
+                        'Giorgos Kyriakopoulos', 'Lorenzo Pirola', 'Norbert Gyömbér', 'Guillermo Ochoa',
+                        'Ricardo Rodríguez', 'Walace', 'Roberto Pereyra', 'Lorenzo Lucca', 'Suat Serdar',
+                        'Jackson Tchatchoua', 'Federico Bonazzoli', 'Stefano Turati', 'Grejohn Kyei',
+                        'Maxime Gonalons', 'Mehdi Zeffane', 'Shamar Nicholson', 'André Ayew', "Kévin N'Doram",
+                        'Georges Mikautadze', 'Moussa Sissoko', 'Samuel Moutoussamy', 'Abdoul Kader Bamba',
+                        'Jessy Deminguet', 'Kevin Gameiro', 'Mikkel Desler', 'Dion Beljo', 'Sven Michel', 'Iago',
+                        'Christoph Klarer', 'Emir Karic', 'Jan-Niklas Beste', 'Kevin Sessa', 'Nikola Dovedan',
+                        'Florian Pick', 'Robert Skov', 'John Anthony Brooks', 'Wout Weghorst', 'Davie Selke',
+                        'Benno Schmitz', 'Rasmus Carstensen', 'Leandro Barreiro', 'Christian Groß', 'Koen Casteels',
+                        'Luca Waldschmidt', 'Bartol Franjic', 'Christopher Antwi-Adjei', 'Ivan Ordets',
+                        'Luis Sinisterra', 'Saman Ghoddos', 'Ben Osborn', 'Oliver McBurnie']
