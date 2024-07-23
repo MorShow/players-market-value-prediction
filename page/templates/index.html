@@ -15,23 +15,56 @@
             <form class="p-4 text-center" action="/" method="post">
                 <div class="field">
                     <label for="age">Age:</label>
-                    <input class="form-control-sm" type="text" id="age" name="age"><br><br>
+                    <input class="form-control-sm" type="text" id="age" name="age">
+                    <label for="rank">Team rank:</label>
+                    <select id="rank" name="rank">
+                        <option value="rank_a">Tier A club</option>
+                        <option value="rank_b">Tier B club</option>
+                        <option value="rank_c">Tier C club</option>
+                    </select><br><br>
                 </div>
                 <div class="field">
+                    <label for="mins">Minutes played:</label>
+                    <input class="form-control-sm" type="text" id="mins" name="mins">
                     <label for="goals">Goals:</label>
-                    <input class="form-control-sm" type="text" id="goals" name="goals"><br><br>
-                </div>
-                <div class="field">
-                    <label for="assists">Assists:</label>
-                    <input class="form-control-sm" type="text" id="assists" name="assists"><br><br>
+                    <select id="goals" name="goals">
+                        <option value="goals_7">0-7</option>
+                        <option value="goals_14">8-14</option>
+                        <option value="goals_21">15-21</option>
+                        <option value="goals_28">22-28</option>
+                    </select><br><br>
                 </div>
                 <div class="field">
                     <label for="rating">Rating:</label>
-                    <input class="form-control-sm" type="text" id="rating" name="rating"><br><br>
+                    <input class="form-control-sm" type="text" id="rating" name="rating">
+                    <label for="assists">Assists:</label>
+                    <select id="assists" name="assists">
+                        <option value="assists_3">0-3</option>
+                        <option value="assists_7">4-7</option>
+                        <option value="assists_10">7-10</option>
+                        <option value="assists_14">11-14</option>
+                    </select><br><br>
                 </div>
                 <div class="field">
-                    <label for="rank">Team rank:</label>
-                    <input class="form-control-sm" type="text" id="rank" name="rank"><br><br>
+                    <label for="ps">Succesful passes(%):</label>
+                    <input class="form-control-sm" type="text" id="ps" name="ps">
+                    <label for="popularity">Popularity:</label>
+                    <select id="popularity" name="popularity">
+                        <option value="popularity_1">1</option>
+                        <option value="popularity_2">2</option>
+                        <option value="popularity_3">3</option>
+                        <option value="popularity_4">4</option>
+                        <option value="popularity_5">5</option>
+                    </select><br><br>
+                </div>
+                <div class="field">
+                    <label for="avgp">Average passes:</label>
+                    <input class="form-control-sm" type="text" id="avgp" name="avgp">
+                    <label for="epl">From EPL:</label>
+                    <select id="epl" name="epl">
+                        <option value="epl_true">True</option>
+                        <option value="epl_false">False</option>
+                    </select><br><br>
                 </div>
                 <div class="field">
                     <label></label>
