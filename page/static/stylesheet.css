@@ -1,0 +1,8 @@
+div.field {
+    padding-bottom: 5px;
+}
+
+div.field label {
+    width: 80px;
+    height: 15px;
+}
