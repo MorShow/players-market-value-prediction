@@ -1,8 +1,123 @@
 div.field {
     padding-bottom: 5px;
+    margin-right: 40px;
 }
 
 div.field label {
     width: 150px;
     height: 15px;
+}
+
+div.field select {
+    width: 150px;
+    height: 30px;
+}
+
+div.field input.number {
+    width: 175px;
+}
+
+div.field input#submission {
+    margin-right: 100px;
+}
+
+p#prediction {
+    margin-left: 10px;
+}
+
+div.img {
+    background: url("./background2.jpg");
+    background-size: auto;
+    background-size:100% 100%;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    filter: blur(10px);
+}
+
+div.back_img{
+    background: #ffc124;
+    background-size: auto;
+    background-size:100% 100%;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.text-center {
+    color: aliceblue;
+}
+
+button.explain {
+    margin-left: 20px;
+}
+
+.explanation {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: 200ms ease-in-out;
+    border: 1px solid black;
+    border-radius: 7px;
+    z-index: 10;
+    background-color: #ffc124;
+    width: 700px;
+    max-width: 60%;
+}
+
+.explanation.active {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.explanation-header {
+    color: black;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.explanation-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.explanation-close {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.explanation-body {
+    color: black;
+    padding: 10px 15px;
+    text-align: left;
+}
+
+#overlay {
+    position: fixed;
+    opacity: 0;
+    transition: 200ms ease-in-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    pointer-events: none;
+}
+
+#overlay.active {
+    opacity: 1;
+    pointer-events: all;
 }

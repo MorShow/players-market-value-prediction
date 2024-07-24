@@ -7,15 +7,17 @@
         <title>Market Value</title>
     </head>
     <body>
+        <div class="back_img"></div>
+        <div class="img"></div>
         <div class="mt-3">
-            <h1 class="text-center">Welcome to my site!</h1>
+            <h1 class="text-center">Welcome!</h1>
         </div>
         <div class="container mt-2">
-            <h1 class="text-center">Enter the information about footballer</h1>
+            <h1 class="text-center">Give me the information about a footballer</h1>
             <form class="p-4 text-center" action="/" method="post">
                 <div class="field">
                     <label for="age">Age:</label>
-                    <input class="form-control-sm" type="text" id="age" name="age">
+                    <input class="form-control-sm number" type="number" id="age" name="age" min="16" max="40" value="16">
                     <label for="rank">Team rank:</label>
                     <select id="rank" name="rank">
                         <option value="rank_a">Tier A club</option>
@@ -25,7 +27,7 @@
                 </div>
                 <div class="field">
                     <label for="mins">Minutes played:</label>
-                    <input class="form-control-sm" type="text" id="mins" name="mins">
+                    <input class="form-control-sm number" type="number" id="mins" name="mins" min="150" max="3450" value="150">
                     <label for="goals">Goals:</label>
                     <select id="goals" name="goals">
                         <option value="goals_7">0-7</option>
@@ -36,7 +38,7 @@
                 </div>
                 <div class="field">
                     <label for="rating">Rating:</label>
-                    <input class="form-control-sm" type="text" id="rating" name="rating">
+                    <input class="form-control-sm number" type="number" id="rating" name="rating" min="6.00" max="7.85" step="0.01" value="6.00">
                     <label for="assists">Assists:</label>
                     <select id="assists" name="assists">
                         <option value="assists_3">0-3</option>
@@ -46,8 +48,8 @@
                     </select><br><br>
                 </div>
                 <div class="field">
-                    <label for="ps">Succesful passes(%):</label>
-                    <input class="form-control-sm" type="text" id="ps" name="ps">
+                    <label for="ps">Succesful passes (%):</label>
+                    <input class="form-control-sm number" type="number" id="ps" name="ps" min="44.0" max="96.0" step="0.1" value="44.0">
                     <label for="popularity">Popularity:</label>
                     <select id="popularity" name="popularity">
                         <option value="popularity_1">1</option>
@@ -59,22 +61,43 @@
                 </div>
                 <div class="field">
                     <label for="avgp">Average passes:</label>
-                    <input class="form-control-sm" type="text" id="avgp" name="avgp">
+                    <input class="form-control-sm number" type="number" id="avgp" name="avgp" min="3.0" max="107.0" step="0.1" value="3.0">
                     <label for="epl">From EPL:</label>
                     <select id="epl" name="epl">
-                        <option value="epl_true">True</option>
-                        <option value="epl_false">False</option>
+                        <option value="epl_true">Yes</option>
+                        <option value="epl_false">No</option>
                     </select><br><br>
                 </div>
                 <div class="field">
                     <label></label>
-                    <input class="btn btn-primary mt-0.5" type="submit" value="Submit">
+                    <input class="btn btn-warning mt-0.5" id="submission" type="submit" value="Submit">
                 </div>
             </form>
         </div>
-
         {% if prediction %}
-            <p class="text-center">Market value: {{prediction}}</p>
+            <p class="text-center" id="prediction">Market value: {{prediction}}</p>
         {% endif %}
+        <div class="text-center explain">
+            <label>What do some variables mean? </label>
+            <button data-explanation-target="#explanation" class="btn btn-warning explain" id="data-explanation-target" onclick="openWindow()">Explain</button>
+            <div class="explanation" id="explanation">
+                <div class="explanation-header">
+                    <div class="explanation-title">Explanation</div>
+                    <button data-close-button class="explanation-close">&times;</button>
+                </div>
+                <div class="explanation-body">
+                    1. From EPL - a player plays in English Premier League<br>
+                    2. Rating - how highly a footballer is ranked at some soccer stats website (like WhoScored)<br>
+                    3. PS, Successful Passes (%) - Percentage of successful passes<br>
+                    4. Average Passes (AvgP) - Average number of passes attempted<br>
+                    5. Team rank - all the football clubs from top-5 leagues are divided into three categories:<br>
+                    - A-tier: Real Madrid, Juventus, Milan, PSG, etc.<br>
+                    - B-tier: Newcastle, Bayer Leverkusen, Napoli, etc.<br>
+                    - C-tier: Celta Vigo, Getafe, Luton, Werder Bremen, etc.
+                </div>
+            </div>
+        </div>
+        <div id="overlay"></div>
+        <script src="../static/script.js"></script>
     </body>
 </html>
