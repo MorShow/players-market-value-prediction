@@ -2,13 +2,13 @@ from flask import Flask, render_template, request, redirect, url_for, jsonify
 from page_mappings import COLUMNS_TO_MAP, NAMES_MAPPING, MAPPINGS
 import dill
 import pandas as pd
-import numpy as np
+import numpy
 
 COLUMNS_COUNT = 10
 
 app = Flask(__name__)
 
-with open(r"../final_model.pkl", 'rb') as file:
+with open(r"final_model.pkl", 'rb') as file:
     av_model = dill.load(file)
 
 @app.route('/', methods=['GET'])
@@ -21,7 +21,7 @@ def enter():
 
     table = pd.read_csv("./online_data.csv")
     player_index = len(table.index)
-    table = pd.concat([table, pd.DataFrame(np.zeros((1, COLUMNS_COUNT)), index=[player_index], columns=table.columns[:COLUMNS_COUNT])])
+    table = pd.concat([table, pd.DataFrame(numpy.zeros((1, COLUMNS_COUNT)), index=[player_index], columns=table.columns[:COLUMNS_COUNT])])
 
     for key, value in values_dictionary.items():
         if key in COLUMNS_TO_MAP:
