@@ -26,7 +26,7 @@ p#prediction {
 }
 
 div.img {
-    background: url("./background2.jpg");
+    background: url("background2.jpg");
     background-size: auto;
     background-size:100% 100%;
     position: fixed;

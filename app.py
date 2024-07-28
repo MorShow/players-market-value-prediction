@@ -19,7 +19,7 @@ def predict():
 def enter():
     values_dictionary = request.values
 
-    table = pd.read_csv("./online_data.csv")
+    table = pd.read_csv("online_data.csv")
     player_index = len(table.index)
     table = pd.concat([table, pd.DataFrame(numpy.zeros((1, COLUMNS_COUNT)), index=[player_index], columns=table.columns[:COLUMNS_COUNT])])
 
